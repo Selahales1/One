@@ -4,15 +4,15 @@
     {
       "id": 1,
       "title": "The Titlist",
-      "author": "Jonathan Mills"
-	  "body": "We live in a beautiful world"
+      "author": "Jonathan Mills",
+      "body": "We live in a beautiful world"
     },
-	{
+    {
       "id": 2,
       "title": "Cadence of a Sparrow",
-      "author": "Leah Winters"
-	  "body": "Life goes on"
-	}
+      "author": "Leah Winters",
+      "body": "Life goes on"
+     }
   ],
   "comments": [
     {
@@ -27,6 +27,6 @@
     }
   ],
   "profile": {
-    "name": "updates"
+    "name": "Updates"
   }
 }
